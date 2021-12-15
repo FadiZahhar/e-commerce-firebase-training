@@ -93,10 +93,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/656320025" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 6. Prepare the app to be submitted
+## 6. Writing Action Creators
 
-### 1 Configuring appjson file (Part 1)
-<iframe src="https://player.vimeo.com/video/651357335" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 App & Auth Action Creators (16)
+<iframe src="https://player.vimeo.com/video/656325713" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Basket & Checkout Action Creators (26)
+<iframe src="https://player.vimeo.com/video/656327889" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Filter Action Creator (36)
+<iframe src="https://player.vimeo.com/video/656328619" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Product Action Creator (46)
+<iframe src="https://player.vimeo.com/video/656329337" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Profile Action Creator (56)
+<iframe src="https://player.vimeo.com/video/656329990" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Users Action Creator (66)
+<iframe src="https://player.vimeo.com/video/656330718" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Markdown
