@@ -158,6 +158,41 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+
+## 10. Writing User Account Function
+
+### 1 User Account Settings(17)
+<iframe src="https://player.vimeo.com/video/656343816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 User Account Settings(27)
+<iframe src="https://player.vimeo.com/video/656345971" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 User Account Settings(37)
+<iframe src="https://player.vimeo.com/video/656347206" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 User Account Settings(47)
+<iframe src="https://player.vimeo.com/video/656348569" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 User Account Settings(57)
+<iframe src="https://player.vimeo.com/video/656349295" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 User Account Settings(67)
+<iframe src="https://player.vimeo.com/video/656350094" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 User Account Settings(77)
+<iframe src="https://player.vimeo.com/video/656352822" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Remaining Firebase Functions
+<iframe src="https://player.vimeo.com/video/656354387" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Sign Up Page
+<iframe src="https://player.vimeo.com/video/656355103" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Finalize And Remove Errors
+<iframe src="https://player.vimeo.com/video/656356772" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
