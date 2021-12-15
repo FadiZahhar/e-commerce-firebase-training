@@ -218,38 +218,37 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 12. Writing User Account Function
+## 12. Writing Checkout Function
 
-### 1 User Account Settings(17)
-<iframe src="https://player.vimeo.com/video/656343816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Checkout Pagination Page
+<iframe src="https://player.vimeo.com/video/656375446" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 User Account Settings(27)
-<iframe src="https://player.vimeo.com/video/656345971" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Checkout Step Tracker Page
+<iframe src="https://player.vimeo.com/video/656376104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 User Account Settings(37)
-<iframe src="https://player.vimeo.com/video/656347206" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Checking AUTH On Checkout
+<iframe src="https://player.vimeo.com/video/656376471" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 User Account Settings(47)
-<iframe src="https://player.vimeo.com/video/656348569" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Checkout Step-1
+<iframe src="https://player.vimeo.com/video/656377330" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 User Account Settings(57)
-<iframe src="https://player.vimeo.com/video/656349295" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Resolving Firebase Analytics Problem
+<iframe src="https://player.vimeo.com/video/656378216" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 User Account Settings(67)
-<iframe src="https://player.vimeo.com/video/656350094" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Write Shipping Form
+<iframe src="https://player.vimeo.com/video/656379212" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 User Account Settings(77)
-<iframe src="https://player.vimeo.com/video/656352822" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 Complete Shipping Form
+<iframe src="https://player.vimeo.com/video/656380815" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Remaining Firebase Functions
-<iframe src="https://player.vimeo.com/video/656354387" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 Write Shipping Total Component
+<iframe src="https://player.vimeo.com/video/656381453" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Sign Up Page
-<iframe src="https://player.vimeo.com/video/656355103" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 9 Completing Shipping Component
+<iframe src="https://player.vimeo.com/video/656381920" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 10 Finalize And Remove Errors
-<iframe src="https://player.vimeo.com/video/656356772" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+### 10 Finalizing Our ReactRedux Project
+<iframe src="https://player.vimeo.com/video/656384139" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Markdown
