@@ -114,6 +114,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/656330718" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+
+## 7. Writing Reducers
+
+### 1 App Reducer (16)
+<iframe src="https://player.vimeo.com/video/656330857" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Basket Reducer (26)
+<iframe src="https://player.vimeo.com/video/656331595" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 checkout Reducer (36)
+<iframe src="https://player.vimeo.com/video/656332231" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Filter Reducer (46)
+<iframe src="https://player.vimeo.com/video/656332678" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Product Reducer (56)
+<iframe src="https://player.vimeo.com/video/656333674" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Profile & User Reducers (66)
+<iframe src="https://player.vimeo.com/video/656334398" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
